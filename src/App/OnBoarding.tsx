@@ -28,19 +28,19 @@ const PagerContents = [
     image: images.on_boarding_0,
     title: 'Welcome Aboard',
     description:
-      'Terra Station is your gateway to the Terra ecosystem.',
+      'Candle Castle is your gateway to the Candle ecosystem.',
   },
   {
     image: images.on_boarding_1,
     title: 'Manage Assets',
     description:
-      'Transact, swap, and stake assets on the Terra blockchain.',
+      'Transact, swap, and stake assets on the Candle blockchain.',
   },
   {
     image: images.on_boarding_2,
     title: 'Get Rewards',
     description:
-      'Delegate LUNA and earn yield from transactions on the Terra network.',
+      'Delegate CNDL and earn yield from transactions on the Candle network.',
   },
   {
     image: images.on_boarding_4,
