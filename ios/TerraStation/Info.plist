@@ -26,10 +26,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>terrastation</string>
+			<string>candlecastle</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>terrastation</string>
+				<string>candlecastle</string>
 			</array>
 		</dict>
 		<dict>
@@ -37,7 +37,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>money.terra.station</string>
+				<string>Castle.candlenetwork.com</string>
 			</array>
 		</dict>
 	</array>
